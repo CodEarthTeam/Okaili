@@ -2,8 +2,8 @@
 
 <h1 align="center">Okaili Launcher</h1>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
+![Screenshot 1](add later)
+![Screenshot 2](add Later)
 
 ## Features
 
